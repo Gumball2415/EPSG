@@ -51,8 +51,8 @@
   (pad "S" smd rect (at -3.5 2.2) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 146777ec-3e0c-44a5-bd1c-f9a1340bb936))
   (pad "T" smd rect (at 3.5 9.4) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a4535c6-4f04-4202-b148-1a2b61be81bd))
   (pad "TN" smd rect (at 3.5 11.6) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5d9a9396-3223-4c3f-ab06-80c3027bda2c))
-  (model "${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_3.5mm_PJ311_Horizontal.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/EPSM-Famicom.pretty/PJ-342b.wrl"
+    (offset (xyz 0 -6.89 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
