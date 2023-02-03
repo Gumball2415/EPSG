@@ -10,7 +10,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 935057d5-6882-4c15-9a35-54677912ba12)
   )
-  (fp_text user "THIS SIDE FRONT" (at 0 6.35) (layer "F.SilkS")
+  (fp_text user "THIS SIDE LABEL" (at 0 6.35) (layer "F.SilkS")
     (effects (font (size 1 1.75) (thickness 0.15)))
     (tstamp 9286cf02-1563-41d2-9931-c192c33bab31)
   )
